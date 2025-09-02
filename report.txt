@@ -1,0 +1,36 @@
+Info: Processing symbol 'FSR1_Signal1:MountingHole:MountingHole_2.2mm_M2_DIN965_Pad'.
+Info: Processing symbol 'FSR1_VCC1:MountingHole:MountingHole_2.2mm_M2_DIN965_Pad'.
+Info: Processing symbol 'FSR2_Signal1:MountingHole:MountingHole_2.2mm_M2_DIN965_Pad'.
+Info: Processing symbol 'FSR2_VCC1:MountingHole:MountingHole_2.2mm_M2_DIN965_Pad'.
+Info: Processing symbol 'FSR3_Signal1:MountingHole:MountingHole_2.2mm_M2_DIN965_Pad'.
+Info: Processing symbol 'FSR3_VCC1:MountingHole:MountingHole_2.2mm_M2_DIN965_Pad'.
+Info: Processing symbol 'J1:Connector_USB:USB_C_Receptacle_GCT_USB4125-xx-x-0190_6P_TopMnt_Horizontal'.
+Info: Processing symbol 'LCD_GND1:MountingHole:MountingHole_2.2mm_M2_DIN965_Pad'.
+Info: Processing symbol 'LCD_SCL1:MountingHole:MountingHole_2.2mm_M2_DIN965_Pad'.
+Info: Processing symbol 'LCD_SDA1:MountingHole:MountingHole_2.2mm_M2_DIN965_Pad'.
+Info: Processing symbol 'LCD_VCC1:MountingHole:MountingHole_2.2mm_M2_DIN965_Pad'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R4:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R5:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'Servo1_GND1:MountingHole:MountingHole_2.2mm_M2_DIN965_Pad'.
+Info: Processing symbol 'Servo1_potentiometer1:MountingHole:MountingHole_2.2mm_M2_DIN965_Pad'.
+Info: Processing symbol 'Servo1_signal1:MountingHole:MountingHole_2.2mm_M2_DIN965_Pad'.
+Info: Processing symbol 'Servo1_VCC1:MountingHole:MountingHole_2.2mm_M2_DIN965_Pad'.
+Info: Processing symbol 'Servo2_GND1:MountingHole:MountingHole_2.2mm_M2_DIN965_Pad'.
+Info: Processing symbol 'Servo2_potentiometer1:MountingHole:MountingHole_2.2mm_M2_DIN965_Pad'.
+Info: Processing symbol 'Servo2_signal1:MountingHole:MountingHole_2.2mm_M2_DIN965_Pad'.
+Info: Processing symbol 'Servo2_VCC1:MountingHole:MountingHole_2.2mm_M2_DIN965_Pad'.
+Info: Processing symbol 'U1:ESP32-DEVKITC-32D:MODULE_ESP32-DEVKITC-32D'.
+Error: J1 pad A4 not found in Connector_USB:USB_C_Receptacle_GCT_USB4125-xx-x-0190_6P_TopMnt_Horizontal.
+Error: J1 pad B4 not found in Connector_USB:USB_C_Receptacle_GCT_USB4125-xx-x-0190_6P_TopMnt_Horizontal.
+Error: J1 pad A1 not found in Connector_USB:USB_C_Receptacle_GCT_USB4125-xx-x-0190_6P_TopMnt_Horizontal.
+Error: J1 pad B1 not found in Connector_USB:USB_C_Receptacle_GCT_USB4125-xx-x-0190_6P_TopMnt_Horizontal.
+Error: J1 pad A6 not found in Connector_USB:USB_C_Receptacle_GCT_USB4125-xx-x-0190_6P_TopMnt_Horizontal.
+Error: J1 pad B6 not found in Connector_USB:USB_C_Receptacle_GCT_USB4125-xx-x-0190_6P_TopMnt_Horizontal.
+Error: J1 pad A7 not found in Connector_USB:USB_C_Receptacle_GCT_USB4125-xx-x-0190_6P_TopMnt_Horizontal.
+Error: J1 pad B7 not found in Connector_USB:USB_C_Receptacle_GCT_USB4125-xx-x-0190_6P_TopMnt_Horizontal.
+
+
+Info: Total warnings: 0, errors: 8.
